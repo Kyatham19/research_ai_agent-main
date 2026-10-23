@@ -1,0 +1,90 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 2324 >>
+stream
+BT
+/F1 11 Tf
+50 750 Td (Research Paper: An Introduction to Retrieval-Augmented Generation) Tj
+50 750 Td () Tj
+50 735 Td () Tj
+50 735 Td () Tj
+50 720 Td (Abstract:) Tj
+50 720 Td () Tj
+50 705 Td (Retrieval-Augmented Generation \(RAG\) combines the parametric knowledge of large language) Tj
+50 705 Td () Tj
+50 690 Td (models with non-parametric retrieval from external knowledge bases. This paper presents a) Tj
+50 690 Td () Tj
+50 675 Td (comprehensive overview of the RAG framework and its applications in natural language processing.) Tj
+50 675 Td () Tj
+50 660 Td () Tj
+50 660 Td () Tj
+50 645 Td (Introduction:) Tj
+50 645 Td () Tj
+50 630 Td (Large language models have demonstrated remarkable capabilities across a wide range of tasks.) Tj
+50 630 Td () Tj
+50 615 Td (However, these models are limited by their training data cutoff and may hallucinate facts.) Tj
+50 615 Td () Tj
+50 600 Td (Retrieval-augmented approaches address these limitations by grounding model outputs in) Tj
+50 600 Td () Tj
+50 585 Td (retrieved documents from external knowledge sources.) Tj
+50 585 Td () Tj
+50 570 Td () Tj
+50 570 Td () Tj
+50 555 Td (Methods:) Tj
+50 555 Td () Tj
+50 540 Td (We implement a dense retrieval system using FAISS for efficient approximate nearest neighbor) Tj
+50 540 Td () Tj
+50 525 Td (search over document embeddings. The retriever scores each candidate document against the) Tj
+50 525 Td () Tj
+50 510 Td (query using cosine similarity of dense vector representations.) Tj
+50 510 Td () Tj
+50 495 Td () Tj
+50 495 Td () Tj
+50 480 Td (Results:) Tj
+50 480 Td () Tj
+50 465 Td (Our experiments on knowledge-intensive NLP tasks demonstrate significant improvements over) Tj
+50 465 Td () Tj
+50 450 Td (baseline language models. The RAG system achieves higher factual accuracy and lower) Tj
+50 450 Td () Tj
+50 435 Td (hallucination rates compared to standard language model baselines.) Tj
+50 435 Td () Tj
+50 420 Td () Tj
+50 420 Td () Tj
+50 405 Td (Conclusion:) Tj
+50 405 Td () Tj
+50 390 Td (Retrieval-augmented generation represents a promising direction for building more reliable) Tj
+50 390 Td () Tj
+50 375 Td (and factually grounded language systems. Future work will explore dynamic retrieval) Tj
+50 375 Td () Tj
+50 360 Td (strategies and more efficient indexing methods for large-scale knowledge bases.) Tj
+50 360 Td () Tj
+ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000244 00000 n 
+0000002620 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2688
+%%EOF

@@ -1,0 +1,51 @@
+# Python virtual environments
+venv/
+backend/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+backend/.env
+frontend/.env
+
+# Frontend dependencies and build files
+frontend/node_modules/
+frontend/dist/
+
+# Test runner output
+tests/node_modules/
+tests/playwright-report/
+tests/test-results/
+tests/TEST-REPORT.json
+
+# Workspace data & databases (runtime-generated, not source code)
+backend/data/workspaces/
+backend/data/*.db
+*.db
+*.sqlite
+*.sqlite3
+
+# Stray backend npm artifacts
+backend/node_modules/
+backend/package.json
+backend/package-lock.json
+
+# Runtime logs
+backend/logs/
+
+# Claude / IDE memory
+.claude/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Scratch & temporary artifacts
+dom*.html
+screenshot*.png

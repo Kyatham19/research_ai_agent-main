@@ -1,0 +1,15 @@
+{
+  "name": "research-ai-agent-tests",
+  "version": "1.0.0",
+  "description": "Playwright E2E test suite for Research AI Agent",
+  "scripts": {
+    "test": "playwright test",
+    "test:integration": "playwright test e2e/13-integration.spec.js",
+    "test:all": "playwright test",
+    "report": "node generate-report.js",
+    "show-report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.45.0"
+  }
+}
