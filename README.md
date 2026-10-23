@@ -2,6 +2,12 @@
 
 > **Autonomous Multi-Agent Academic Intelligence & Literature Synthesis Engine**
 
+🌐 **Live Application**: **[https://research-ai-studio.onrender.com/](https://research-ai-studio.onrender.com/)**
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Render_Deployment-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://research-ai-studio.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Kyatham19%2Fresearch__ai__agent--main-blue?style=for-the-badge&logo=github)](https://github.com/Kyatham19/research_ai_agent-main)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+
 ResearchAI Studio accelerates scientific discovery by retrieving literature across millions of publications (arXiv, PubMed, Semantic Scholar, OpenAlex), analyzing empirical findings, generating thematic literature reviews, and drafting publication-ready academic manuscripts.
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Kyatham19/research_ai_agent-main)
