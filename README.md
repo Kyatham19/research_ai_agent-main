@@ -4,6 +4,8 @@
 
 ResearchAI Studio accelerates scientific discovery by retrieving literature across millions of publications (arXiv, PubMed, Semantic Scholar, OpenAlex), analyzing empirical findings, generating thematic literature reviews, and drafting publication-ready academic manuscripts.
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Kyatham19/research_ai_agent-main)
+
 ---
 
 ## ✨ Features

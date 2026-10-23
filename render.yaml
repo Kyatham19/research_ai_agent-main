@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: research-ai-studio
+    runtime: python
+    plan: free
+    buildCommand: "./build.sh"
+    startCommand: "cd backend && gunicorn app:app --bind 0.0.0.0:$PORT --workers 2 --timeout 120"
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.3
+      - key: GEMINI_API_KEY
+        sync: false
