@@ -4,6 +4,8 @@
 
 🌐 **Live Application**: **[https://research-ai-studio.onrender.com/](https://research-ai-studio.onrender.com/)**
 
+Demo Note: AI-powered features requiring the Gemini API are currently unavailable in the public demo because the API key is not configured. Other available functionality can still be explored.
+
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Render_Deployment-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://research-ai-studio.onrender.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Kyatham19%2Fresearch__ai__agent--main-blue?style=for-the-badge&logo=github)](https://github.com/Kyatham19/research_ai_agent-main)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
